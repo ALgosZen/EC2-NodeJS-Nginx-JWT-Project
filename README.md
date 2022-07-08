@@ -1,5 +1,8 @@
 # EC2-NodeJS-Nginx-JWT-Project
-### Lets prepare nodejs project first. make sure you have node and npm installed . open your fav editor and proceed creating project. anytime having trouble refer to this repo.
+
+Project to run nodejs application in AWS EC2 , and use Nginx as a reverse proxy for Node.js server! 
+
+## Lets prepare nodejs project first. make sure you have node and npm installed . open your fav editor and proceed creating project. anytime having trouble refer to this repo.
 
 ### npm init - y
 install few packages required for this project
@@ -109,3 +112,5 @@ thats it !!! Exercise to run nodeJS on EC2 Amazon Linux 2 completed .
 We have successfully deployed a Node.js application on  AWS EC2 and setup Nginx as reverse proxy. In addition we've also learned to use PM2 for running app without any EC2 restart interruption.
 
 Next we will learn how to .. Configure domain name , configure SSL With Lets Encrypt etc.,
+
+## If you are done here , make sure to terminate all resources in your AWS account !
