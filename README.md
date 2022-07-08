@@ -2,7 +2,7 @@
 
 Project to run nodejs application in AWS EC2 , and use Nginx as a reverse proxy for Node.js server! 
 
-## Lets prepare nodejs project first. make sure you have node and npm installed . open your fav editor and proceed creating project. anytime having trouble refer to this repo.
+## Lets prepare nodejs project first. make sure you have node and npm installed . open your fav editor and proceed creating project. anytime you are stuck, refer to this repo.
 
 ### npm init - y
 install few packages required for this project
